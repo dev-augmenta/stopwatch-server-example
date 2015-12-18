@@ -9,7 +9,7 @@
   "properties": {},
   "validations": [],
   "relations": {
-	"times": {
+    "times": {
       "type": "hasMany",
       "model": "Time",
       "foreignKey": "userId"
